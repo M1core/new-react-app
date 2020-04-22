@@ -10,13 +10,13 @@
   "dependencies": {
     "@babel/runtime": "^7.8.4",
     "meteor-node-stubs": "^1.0.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "meteor": {
     "mainModule": {
-      "client": "client/main.jsx",
-      "server": "server/main.js"
+      "client": "client/main.js",
+      "server": "server/main.jsx"
     },
     "testModule": "tests/main.js"
   }
